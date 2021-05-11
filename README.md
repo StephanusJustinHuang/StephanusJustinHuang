@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stephanus Justin Huang, a 3rd year Computer Science student at the University of New Mexico, NM, USA. 
+- 👋 Hi, I’m Stephanus Justin Huang, a 4th year Computer Science student at the University of New Mexico, NM, USA. 
 - 👀 I’m interested in IOS Developer
 - 🌱 I’m currently learning JAVA, C, and SWIFT
 - 💞️ I’m looking for an internship in software developer position.
